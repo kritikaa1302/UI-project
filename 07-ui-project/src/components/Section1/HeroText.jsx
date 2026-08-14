@@ -1,5 +1,4 @@
 import React from 'react'
-
 const HeroText = () => {
     return (
         <div className='p-6'>
