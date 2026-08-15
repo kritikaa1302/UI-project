@@ -10,5 +10,4 @@ const Section1 = (props) => {
     </div>
   )
 }
-
 export default Section1
