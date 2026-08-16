@@ -9,6 +9,4 @@ const Section2 = (props) => {
 }
 
 
-
-
 export default Section2
