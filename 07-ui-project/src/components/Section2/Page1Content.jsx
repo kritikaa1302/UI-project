@@ -10,5 +10,4 @@ const Page1Content = (props) => {
     </div>
   )
 }
-
 export default Page1Content
