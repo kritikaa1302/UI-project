@@ -10,6 +10,5 @@ const RightCard = (props) => {
         </div>
     )
 }
-
 export default RightCard
 
