@@ -1,5 +1,4 @@
 import RightCardContent from './RightCardContent'
-
 const RightCard = (props) => {
     console.log(props.color);
     
