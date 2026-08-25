@@ -8,5 +8,6 @@ const Page1Content = (props) => {
         <RightContent users={props.users}  />
     </div>
   )
+  
 }
 export default Page1Content
