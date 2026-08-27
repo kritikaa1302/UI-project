@@ -18,5 +18,4 @@ const RightCardContent = (props) => {
         </div>
     )
 }
-
 export default RightCardContent
